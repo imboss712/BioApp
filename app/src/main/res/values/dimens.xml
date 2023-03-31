@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="parent_padding">8dp</dimen>
+    <dimen name="image_top_margin">16dp</dimen>
+    <dimen name="name_text_size">20sp</dimen>
+    <dimen name="button_vertical_margin">4dp</dimen>
+    <dimen name="hobbies_vertical_margin">12dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="scroll_view_padding">2dp</dimen>
+</resources>
